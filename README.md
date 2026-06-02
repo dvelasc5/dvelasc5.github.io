@@ -24,7 +24,14 @@
 		<!-- Main -->
 			<div id="main">
 				<body>
-  					<h1>Page Title</h1>
+  					<h1>August Wilson on Writing</h1>
+  					<script src="scripts.js"></script>
+						A quote I really like:  "I once wrote a short story called 'The Best Blues Singer in the World,' and it went like this: 'The streets that Balboa walked were 							his own private ocean, and Balboa was drowning.' End of story. That says it all. Nothing else to say. I've been rewriting that same story over and over again. 							All my plays are rewriting that same story."
+
+				</body>
+
+				<body>
+  					<h1>Page Title 2</h1>
   					<script src="scripts.js"></script>
 				</body>
 			</div>
