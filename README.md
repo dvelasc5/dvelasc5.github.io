@@ -15,10 +15,8 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
-					<h1><strong>I am Strata</strong>, a super simple<br />
-					responsive site template freebie<br />
-					crafted by <a href="http://html5up.net">HTML5 UP</a>.</h1>
+					<a href="#" class="image avatar"><img src="images/IMG_1201.png" alt="" /></a>
+					<h1>David Velasco</h1>
 				</div>
 			</header>
 
@@ -445,7 +443,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; Untitled</li><li>Design: <strong>Strata</strong>, a super simple responsive site template freebie<br
+					crafted by <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</div>
 			</footer>
