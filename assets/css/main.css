@@ -2099,10 +2099,10 @@ input, select, textarea {
 			}
 
 		.image img {
-			width:100%
+			width:auto
 			height: auto
-			border-radius: 0.35em;
-			display: block;
+			<!--border-radius: 0.35em;
+			display: block; -->
 		}
 
 		.image.left {
