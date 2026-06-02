@@ -1,6 +1,3 @@
-# dvelasc5.github.io
-
-<!DOCTYPE HTML>
 <!--
 	Strata by HTML5 UP
 	html5up.net | @ajlkn
