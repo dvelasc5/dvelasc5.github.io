@@ -16,7 +16,7 @@
 		<!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="#" class="image avatar"><img src="images/IMG_1201.png" alt="" /></a>
+					<a href="#" class="image avatar"><img src="images/IMG_1201.png" width:100% height:auto alt="" /></a>
 					<h1>David Velasco</h1>
 				</div>
 			</header>
