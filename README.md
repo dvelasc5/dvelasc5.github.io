@@ -13,16 +13,12 @@
 	</head>
 	<body class="is-preload">
 
-		<!-- Header -->
-			<header id="header">
-				<div class="inner" style="text-align: center;">
-					<a href="#" class="image avatar"><img src="images/IMG_1201.png" alt="Centered Image" /></a>
-					<h1>David Velasco</h1>
-				</div>
-			</header>
+	
 
 		<!-- Main -->
 			<div id="main">
+				<a href="#" class="image avatar"><img src="images/IMG_1201.png" alt="Centered Image" /></a>
+				<h1>David Velasco</h1>
 				<body>
   					<h1>August Wilson on Writing</h1>
   					<script src="scripts.js"></script>
