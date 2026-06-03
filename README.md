@@ -13,7 +13,7 @@
 	</head>
 	<body class="is-preload">
 		<!-- Main -->
-			<div id="main">
+			<div class="outer">
 				<body>
   					<a href="#" class="image avatar"><img src="images/IMG_1201.png" alt="Centered Image" /></a>
 					<h1>David Velasco</h1>
