@@ -12,15 +12,12 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
-
-	
-
 		<!-- Main -->
 			<div id="main">
-				<a href="#" class="image avatar"><img src="images/IMG_1201.png" alt="Centered Image" /></a>
-				<h1>David Velasco</h1>
 				<body>
-  					<h1>August Wilson on Writing</h1>
+  					<a href="#" class="image avatar"><img src="images/IMG_1201.png" alt="Centered Image" /></a>
+					<h1>David Velasco</h1>
+					<h1>August Wilson on Writing</h1>
   					<script src="scripts.js"></script>
 						A quote I really like:  "I once wrote a short story called 'The Best Blues Singer in the World,' and it went like this: 'The streets that Balboa walked were 							his own private ocean, and Balboa was drowning.' End of story. That says it all. Nothing else to say. I've been rewriting that same story over and over again. 							All my plays are rewriting that same story."
 
